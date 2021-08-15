@@ -9,4 +9,4 @@ I have used the pwned api to fetch data from server.
 
 USAGE:
 
-python Data Breach Checker.py your password
+python Password Breach Checker.py your password
